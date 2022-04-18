@@ -5,7 +5,7 @@ DEMO:
 https://youtu.be/8F--E9cDHOw<br />
 
 1.Temperature (เปลี่ยนจาก ฟาเรนไฮต์ เป็น เซลเซียส)<br />
-![UI04](Pic/Temporature.png)<br />
+![UI04](Pics/Temporature.png)<br />
 
 2.Distance (เปลี่ยนจาก เมตร เป็น ไมล์)<br />
 ![UI01](Pics/Distance.png)<br />
